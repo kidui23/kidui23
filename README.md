@@ -12,7 +12,7 @@
 - 👩‍💻 **Full-stack developer** — I build complete web apps from frontend to backend and database
 - 🤖 **AI development** — I integrate AI into real products (LLM chat assistants, automated briefings, smart-city tools)
 - 🔭 Flagship project: **[Adama City Brain](https://github.com/kidui23/Adama-city-brain)** — AI-powered municipal command center (React, Node.js, Python, MongoDB)
-- 🌱 Computer science student — also built lost-and-found, attendance, weather, and chatbot apps
+- 🌱 Also built lost-and-found, attendance, weather, and chatbot apps
 - 💻 **Stack:** HTML, CSS, JavaScript · React · Node.js & Express · Python · MongoDB
 - 💡 Interested in **smart cities**, **civic tech**, and **practical software** that helps real communities
 - 📫 Reach me on GitHub: [@kidui23](https://github.com/kidui23)
@@ -27,7 +27,8 @@
 | [**astu-lost-found**](https://github.com/kidui23/astu-lost-found) | Lost & found platform for ASTU |
 | [**attendance-system**](https://github.com/kidui23/attendance-system) | Attendance tracking & management |
 | [**weather-app**](https://github.com/kidui23/weather-app) | City weather lookup + 5-day forecast |
-| [**chatbot-web-app**](https://github.com/kidui23/chatbot-web-app) · [**chatbot-web-app-v2**](https://github.com/kidui23/chatbot-web-app-v2) | Chatbot applications |
+| [**kidu-ai-web-app**](https://github.com/kidui23/kidu-ai-web-app) | Personal AI web application |
+| [**chatbot-web-app**](https://github.com/kidui23/chatbot-web-app) · [**chatbot-web-app-v2**](https://github.com/kidui23/chatbot-web-app-v2) | AI chatbot applications |
 
 ---
 
