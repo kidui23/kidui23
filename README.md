@@ -17,6 +17,17 @@
 - 💡 Interested in **smart cities**, **civic tech**, and **practical software** that helps real communities
 - 📫 Reach me on GitHub: [@kidui23](https://github.com/kidui23)
 
+### 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:singten79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-singten79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/kidist-merid-476b42304">
+    <img src="https://img.shields.io/badge/LinkedIn-Kidist%20Merid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 Featured projects
