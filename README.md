@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kidist Merid</h1>
-<h3 align="center">Developer · Smart cities · Full-stack apps · Ethiopia 🇪🇹</h3>
+<h3 align="center">Full-Stack Developer · AI & smart-city apps · Ethiopia 🇪🇹</h3>
 
 <p align="center">
   <a href="https://github.com/kidui23"><img src="https://img.shields.io/badge/GitHub-kidui23-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -9,9 +9,11 @@
 
 ### 👩‍💻 About me
 
-- 🔭 Currently building **[Adama City Brain](https://github.com/kidui23/Adama-city-brain)** — an AI-powered municipal command center (uses React, Node.js, Python, MongoDB, and more)
-- 🌱 Computer science student & builder — lost-and-found systems, attendance tools, weather apps, and chatbots
-- 💻 Comfortable with **HTML, CSS, JavaScript**, **React**, **Node.js & Express**, **Python**, and **MongoDB**
+- 👩‍💻 **Full-stack developer** — I build complete web apps from frontend to backend and database
+- 🤖 **AI development** — I integrate AI into real products (LLM chat assistants, automated briefings, smart-city tools)
+- 🔭 Flagship project: **[Adama City Brain](https://github.com/kidui23/Adama-city-brain)** — AI-powered municipal command center (React, Node.js, Python, MongoDB)
+- 🌱 Computer science student — also built lost-and-found, attendance, weather, and chatbot apps
+- 💻 **Stack:** HTML, CSS, JavaScript · React · Node.js & Express · Python · MongoDB
 - 💡 Interested in **smart cities**, **civic tech**, and **practical software** that helps real communities
 - 📫 Reach me on GitHub: [@kidui23](https://github.com/kidui23)
 
