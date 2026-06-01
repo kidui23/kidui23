@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kidist Merid</h1>
-<h3 align="center">Full-stack developer · Smart cities · Applied AI · Ethiopia 🇪🇹</h3>
+<h3 align="center">Developer · Smart cities · Full-stack apps · Ethiopia 🇪🇹</h3>
 
 <p align="center">
   <a href="https://github.com/kidui23"><img src="https://img.shields.io/badge/GitHub-kidui23-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -9,12 +9,11 @@
 
 ### 👩‍💻 About me
 
-- 🔭 Building **[Adama City Brain](https://github.com/kidui23/Adama-city-brain)** — a smart-city **AI command center** (mayor dashboard, citizen portal, Gemini-powered executive assistant)
-- 🌱 Computer science student — shipping real apps: lost & found, attendance, weather, and chatbots
-- 💻 **Core stack:** HTML, CSS, JavaScript · React · Node.js & Express · Python · MongoDB
-- 🤖 **Applied AI:** integrating **LLMs (Google Gemini)** into web apps — conversational assistants, automated briefings, and civic-data tools *(skill level: **AI application development / LLM integration** — not ML research)*
-- 📚 Also practiced fundamentals through **GIT bootcamp** repos and **CSEC** coursework projects (see below)
-- 📫 GitHub: [@kidui23](https://github.com/kidui23)
+- 🔭 Currently building **[Adama City Brain](https://github.com/kidui23/Adama-city-brain)** — an AI-powered municipal command center (uses React, Node.js, Python, MongoDB, and more)
+- 🌱 Computer science student & builder — lost-and-found systems, attendance tools, weather apps, and chatbots
+- 💻 Comfortable with **HTML, CSS, JavaScript**, **React**, **Node.js & Express**, **Python**, and **MongoDB**
+- 💡 Interested in **smart cities**, **civic tech**, and **practical software** that helps real communities
+- 📫 Reach me on GitHub: [@kidui23](https://github.com/kidui23)
 
 ---
 
@@ -22,33 +21,15 @@
 
 | Project | Description |
 |--------|-------------|
-| [**Adama-city-brain**](https://github.com/kidui23/Adama-city-brain) | **Smart-city AI platform** — FastAPI + Gemini chat, executive briefings, mayor & citizen portals |
-| [**adamabrain**](https://github.com/kidui23/adamabrain) | Earlier Adama smart-city prototype |
-| [**KiduAi**](https://github.com/kidui23/KiduAi) | AI-related web project |
-| [**astu-lost-found**](https://github.com/kidui23/astu-lost-found) | Lost & found system for ASTU |
-| [**attendance-system**](https://github.com/kidui23/attendance-system) | Attendance tracking (Python) |
-| [**weather-app**](https://github.com/kidui23/weather-app) | City weather + 5-day forecast |
-| [**Chat-bot**](https://github.com/kidui23/Chat-bot) · [**Chat-bot-second**](https://github.com/kidui23/Chat-bot-second) | Chatbot apps (conversation UI + backend practice) |
-
----
-
-### 📂 Learning & practice projects
-
-Small repos from **Git/GitHub practice**, **CSEC** labs, and coursework — great for showing steady learning:
-
-| Project | Notes |
-|--------|--------|
-| [**GITPRACTICE**](https://github.com/kidui23/GITPRACTICE) · [**GIT2**](https://github.com/kidui23/GIT2) · [**GIT3**](https://github.com/kidui23/GIT3) | Git & GitHub bootcamp practice |
-| [**CECSPRO2**](https://github.com/kidui23/CECSPRO2) · [**CSECProjec5**](https://github.com/kidui23/CSECProjec5) | CSEC / computer science course projects |
-| [**rep6**](https://github.com/kidui23/rep6) | Course repo practice |
-| [**lamp-login**](https://github.com/kidui23/lamp-login) | Login page — HTML, CSS, JavaScript |
-| [**to-do-list**](https://github.com/kidui23/to-do-list) · [**toggle**](https://github.com/kidui23/toggle) · [**toggle2**](https://github.com/kidui23/toggle2) | DOM & UI mini projects |
+| [**Adama-city-brain**](https://github.com/kidui23/Adama-city-brain) | AI operations backend + dashboards for Adama City (mayor briefing, citizen portal, emergency views) |
+| [**astu-lost-found**](https://github.com/kidui23/astu-lost-found) | Lost & found platform for ASTU |
+| [**attendance-system**](https://github.com/kidui23/attendance-system) | Attendance tracking & management |
+| [**weather-app**](https://github.com/kidui23/weather-app) | City weather lookup + 5-day forecast |
+| [**chatbot-web-app**](https://github.com/kidui23/chatbot-web-app) · [**chatbot-web-app-v2**](https://github.com/kidui23/chatbot-web-app-v2) | Chatbot applications |
 
 ---
 
 ### 🛠️ Tech stack
-
-**Web & backend**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
@@ -59,16 +40,6 @@ Small repos from **Git/GitHub practice**, **CSEC** labs, and coursework — grea
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-**Applied AI** *(what to list on a CV for City Brain–style work)*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20App%20Development-0e7490?style=flat-square" alt="AI App Development" />
-  <img src="https://img.shields.io/badge/LLM%20Integration-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Conversational%20AI-10B981?style=flat-square" alt="Conversational AI" />
-  <img src="https://img.shields.io/badge/Smart%20City%20Systems-D4A017?style=flat-square" alt="Smart City" />
 </p>
 
 ---
